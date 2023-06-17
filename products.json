@@ -1,0 +1,178 @@
+[
+  {
+      "id": 1,
+      "name": "Nissan Micra",
+      "description": "Compact hatchback with good fuel efficiency",
+      "price": 53000,
+      "image": "nissan_micra.jpg",
+      "year_of_production": 2022,
+      "fuel_consumption": "5.2 L/100km",
+      "engine": "1.0L 3-cylinder",
+      "fuel_type": "Petrol"
+  },
+  {
+      "id": 2,
+      "name": "Renault Clio 4",
+      "description": "Popular small car known for its reliability",
+      "price": 47000,
+      "image": "clio_4.jpg",
+      "year_of_production": 2021,
+      "fuel_consumption": "5.5 L/100km",
+      "engine": "1.2L 4-cylinder",
+      "fuel_type": "Petrol"
+  },
+  {
+      "id": 3,
+      "name": "Volkswagen Polo 7",
+      "description": "Compact car with comfortable interiors and modern features",
+      "price": 45000,
+      "image": "polo_7.jpg",
+      "year_of_production": 2023,
+      "fuel_consumption": "4.8 L/100km",
+      "engine": "1.4L 4-cylinder",
+      "fuel_type": "Petrol"
+  },
+  {
+      "id": 4,
+      "name": "Fiat Punto",
+      "description": "Affordable and practical hatchback for daily commuting",
+      "price": 42000,
+      "image": "fiat_punto.jpg",
+      "year_of_production": 2022,
+      "fuel_consumption": "5.0 L/100km",
+      "engine": "1.2L 4-cylinder",
+      "fuel_type": "Petrol"
+  },
+  {
+      "id": 5,
+      "name": "Hyundai i20",
+      "description": "Reliable subcompact car with a good balance of features",
+      "price": 38000,
+      "image": "hyundai_i20.jpg",
+      "year_of_production": 2023,
+      "fuel_consumption": "5.3 L/100km",
+      "engine": "1.4L 4-cylinder",
+      "fuel_type": "Petrol"
+  },
+  {
+      "id": 6,
+      "name": "Peugeot 208",
+      "description": "Stylish and agile hatchback with modern design elements",
+      "price": 63000,
+      "image": "peugeot_208.jpg",
+      "year_of_production": 2022,
+      "fuel_consumption": "5.1 L/100km",
+      "engine": "1.2L 3-cylinder",
+      "fuel_type": "Petrol"
+  },
+  {
+      "id": 7,
+      "name": "Kia Rio",
+      "description": "Economical and comfortable compact car for daily use",
+      "price": 57000,
+      "image": "kia_rio.jpg",
+      "year_of_production": 2022,
+      "fuel_consumption": "5.4 L/100km",
+      "engine": "1.4L 4-cylinder",
+      "fuel_type": "Petrol"
+  },
+  {
+      "id": 8,
+      "name": "Toyota Yaris",
+      "description": "Reliable and practical subcompact car with good resale value",
+      "price": 55000,
+      "image": "toyota_yaris.jpg",
+      "year_of_production": 2023,
+      "fuel_consumption": "4.9 L/100km",
+      "engine": "1.5L 4-cylinder",
+      "fuel_type": "Petrol"
+  },
+  {
+      "id": 9,
+      "name": "Ford Fiesta",
+      "description": "Compact car known for its enjoyable driving experience",
+      "price": 58000,
+      "image": "ford_fiesta.jpg",
+      "year_of_production": 2022,
+      "fuel_consumption": "5.4 L/100km",
+      "engine": "1.0L 3-cylinder",
+      "fuel_type": "Petrol"
+  },
+  {
+      "id": 10,
+      "name": "Chevrolet Aveo",
+      "description": "Affordable and compact car suitable for city driving",
+      "price": 36000,
+      "image": "chevrolet_aveo.jpg",
+      "year_of_production": 2021,
+      "fuel_consumption": "5.7 L/100km",
+      "engine": "1.2L 4-cylinder",
+      "fuel_type": "Petrol"
+  },
+  {
+      "id": 11,
+      "name": "Dacia Sandero",
+      "description": "Budget-friendly hatchback with decent interior space",
+      "price": 55000,
+      "image": "dacia_sandero.jpg",
+      "year_of_production": 2022,
+      "fuel_consumption": "5.1 L/100km",
+      "engine": "1.0L 3-cylinder",
+      "fuel_type": "Petrol"
+  },
+  {
+      "id": 12,
+      "name": "Suzuki Swift",
+      "description": "Compact car with good handling and fuel efficiency",
+      "price": 57000,
+      "image": "suzuki_swift.jpg",
+      "year_of_production": 2023,
+      "fuel_consumption": "4.9 L/100km",
+      "engine": "1.2L 4-cylinder",
+      "fuel_type": "Petrol"
+  },
+  {
+      "id": 13,
+      "name": "Citroën C3",
+      "description": "Stylish and comfortable hatchback with distinctive design",
+      "price": 45000,
+      "image": "citroen_c3.jpg",
+      "year_of_production": 2022,
+      "fuel_consumption": "5.3 L/100km",
+      "engine": "1.2L 3-cylinder",
+      "fuel_type": "Petrol"
+  },
+  {
+      "id": 14,
+      "name": "Opel Corsa",
+      "description": "Compact car with decent performance and safety features",
+      "price": 80000,
+      "image": "opel_corsa.jpg",
+      "year_of_production": 2023,
+      "fuel_consumption": "5.1 L/100km",
+      "engine": "1.2L 3-cylinder",
+      "fuel_type": "Petrol"
+  },
+  {
+      "id": 15,
+      "name": "SEAT Ibiza",
+      "description": "Practical and compact car with good value for money",
+      "price": 68000,
+      "image": "seat_ibiza.jpg",
+      "year_of_production": 2022,
+      "fuel_consumption": "5.2 L/100km",
+      "engine": "1.0L 3-cylinder",
+      "fuel_type": "Petrol"
+  },
+  {
+      "id": 16,
+      "name": "Mitsubishi Mirage",
+      "description": "Affordable subcompact car with low running costs",
+      "price": 33000,
+      "image": "mitsubishi_mirage.jpg",
+      "year_of_production": 2023,
+      "fuel_consumption": "4.6 L/100km",
+      "engine": "1.2L 3-cylinder",
+      "fuel_type": "Petrol"
+  }
+]

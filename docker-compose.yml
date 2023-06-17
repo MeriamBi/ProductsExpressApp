@@ -1,0 +1,9 @@
+version: '3'
+services:
+  api:
+    image: product-app:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 9090:9090
